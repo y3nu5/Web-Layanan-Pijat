@@ -22,7 +22,7 @@
         data-aos="fade-up"
         data-aos-duration="1200"
       >
-        Capek, pegal-pegal, keseleo, masuk angin, pijat BuMega solusinya.
+        Capek, pegal-pegal, keseleo, masuk angin, pijat Bu Mega solusinya.
       </h1>
 
       <!-- Tombol -->
