@@ -46,8 +46,8 @@
       <div>
         <h3 class="text-lg font-semibold text-white mb-4">Kontak Kami</h3>
         <ul class="space-y-2">
-          <li>📍 Balikpapan, Kalimantan Timur</li>
-          <li>📞 0812-3456-7890</li>
+          <li>📍 Jalan Tengiri V RT 24 Kel Manggar Baru</li>
+          <li>📞 0896-4810-9012</li>
           <li>✉️ layananurut@gmail.com</li>
         </ul>
       </div>
