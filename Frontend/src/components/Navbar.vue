@@ -95,6 +95,7 @@ const navigation = [
   { name: "Layanan", href: "/Layanan" },
   { name: "Review", href: "/Review" },
   { name: "Kontak", href: "/Contact" },
+  { name: "Aboutme", href: "/AboutMe"},
 ];
 
 // Inisialisasi AOS

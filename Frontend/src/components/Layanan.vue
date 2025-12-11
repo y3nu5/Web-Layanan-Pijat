@@ -13,9 +13,7 @@
       Layanan
     </h2>
 
-    <!-- ====================== -->
-    <!-- KATEGORI DEWASA -->
-    <!-- ====================== -->
+  
     <div 
       class="mb-6"
       data-aos="zoom-in"
