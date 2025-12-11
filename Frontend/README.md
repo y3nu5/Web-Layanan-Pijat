@@ -1,5 +1,15 @@
-# Vue 3 + Vite
+vue routing menggunakan
+{ path: '/AboutMe', component: AboutMe}
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+tailwind css
+"max-w-7xl mx-auto px-4 py-16"
+text font-bold text-left mb
+-grid
+-grid-cols
+- gap
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+responsive
+belum menambahkan responsive sama sekali
+
+vue directives
+belum memakai vue directives
