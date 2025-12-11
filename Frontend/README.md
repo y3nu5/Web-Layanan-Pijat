@@ -1,5 +1,9 @@
 vue routing menggunakan
+file main.js
 { path: '/AboutMe', component: AboutMe}
+
+file navbar.vue
+ { name: "Aboutme", href: "/AboutMe"},
 
 tailwind css
 "max-w-7xl mx-auto px-4 py-16"
